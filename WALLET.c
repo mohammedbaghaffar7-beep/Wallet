@@ -5,7 +5,7 @@
 
 
 
-
+///......
     void manage(){
     int choice;
     printf("1-Insert income\n2-insert expense\n");
